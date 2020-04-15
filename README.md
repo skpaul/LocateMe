@@ -1,4 +1,4 @@
-# LocateMe
+# LocateMe (Beta)
 Find used or unused image, javascript, css or any other files within your application.
 
 
